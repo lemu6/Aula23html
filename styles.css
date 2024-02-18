@@ -17,4 +17,5 @@ a {
     border-style: solid;
     border-color: red;
     background-color: aquamarine;
+    border-radius: 20px;
 }
